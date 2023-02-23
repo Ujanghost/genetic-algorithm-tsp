@@ -14,7 +14,8 @@ click to learn more[Genetic Algorithms for the TSP](https://www.youtube.com/watc
 
 ![Genetic_Algo](https://blogs.mathworks.com/images/pick/will_campbell/potw_salesman/traveling_salesman.gif)
 
-The Solution:- 
+  The Solution:- 
+
 ![Genetic_Algo_sol](https://blogs.mathworks.com/images/pick/will_campbell/potw_salesman/traveling_salesman.png)
 
 ## Contributing
